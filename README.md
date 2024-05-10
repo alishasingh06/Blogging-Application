@@ -1,17 +1,16 @@
-# Blogging Applicaton
+# Blogging Application
 
 **Introduction**  
 
-This advanced Blogging Application is built using TypeScript, Next.js, Tailwind CSS, Node.js, MongoDB, and Redis. The purpose behind developing this application is to build a robust Blogging Web app in which the registered user can create Blogs and post it to the app such the users of the application can make use of it and can also share their views about Blog using **Comment section**.
+This advanced Blogging Application is built using TypeScript, Next.js, Tailwind CSS, Node.js, MongoDB, and Redis. The purpose behind developing this application is to build a robust Blogging Web app in which the registered users can create blogs and post them to the app such that the other users of the application can make use of it and can also share their views about the blog using the **Comment section**.
 
 **Features**  
 
-This application provides users with the following features  
-
-- Serving all CRUD operations, with add on comment facility.
-- Pagination, Search and Sort implementation on server side for robust support.
+This application provides users with the following features:
+- Serving all CRUD operations, with an add-on comment facility.
+- Pagination, Search, and Sort implementation on the server side for robust support.
 - Authentication using **JWT Tokens**
-- A **Blogging Application** that can be used to create blog with **upload pictures** facility both while creating blog and registering to the Blogging Portal.
+- A **Blogging Application** that can be used to create a blog with **upload pictures** facility.
 
 ## Step-1
 
